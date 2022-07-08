@@ -4,4 +4,4 @@ echo "Hello, $USER"
 
 echo "Today is $(date)"
 
-echo "Bad weather"
+echo "Good weather"
