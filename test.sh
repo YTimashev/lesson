@@ -4,4 +4,4 @@ echo "Hello, $USER"
 
 echo "Today is $(date)"
 
-echo "Hey"
+echo "Bye"
